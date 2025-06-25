@@ -1,9 +1,8 @@
 header {
     background-color: rgb(6, 4, 122);
-    height: 100px;
-    text-align: center;
+    height: 150px;
     color: azure;
-    font-size: xx-large;
+    font-size: medium;
 }
 body{
     background: white
@@ -18,7 +17,8 @@ tr {
 }
 td {
     border: 1px solid black;
-} 
-container {
-    justify-content: right;
-}  
+}
+.box {
+    display: flex;
+    align-items: stretch;
+}
