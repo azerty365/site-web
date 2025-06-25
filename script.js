@@ -1,1 +1,1 @@
-alert('binenvenue sur mon site');
+const tableau = 0
