@@ -5,3 +5,7 @@ table {
     border: collapse;
     border: 1px solid black;
     }
+tr {
+    border: collapse;
+    border: 1px solid black;
+} 
