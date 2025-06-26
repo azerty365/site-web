@@ -6,7 +6,7 @@ header {
     
 }
 body{
-    background: white
+    background: rgb(255, 255, 255)
 }
 table {
     border-collapse: collapse;
@@ -17,7 +17,6 @@ tr {
     border: 1px solid black;
 }
 td {
-    width: 250px;
     border: 1px solid black;
 }
 .box {
@@ -28,7 +27,6 @@ td {
     width: min-content;
     height: min-content;
 }
-.image {
-    margin: 0 auto;
-    border: 5px solid red;
+.button_other_page {
+    text-align: center;
 }
