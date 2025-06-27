@@ -29,3 +29,14 @@ td {
 .button_other_page {
     text-align: center;
 }
+.tableau {
+    width: min-content;
+    height: min-content;
+    border: 5px solid blue;
+}
+.container_tableau {
+    border: 5px solid red;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
